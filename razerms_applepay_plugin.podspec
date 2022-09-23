@@ -5,14 +5,14 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   Hello world cocoapods 
   DESC
-  s.homepage         = 'https://github.com/hisyamadzha/hello_world_cocoapods'
+  s.homepage         = 'https://github.com/RazerMS/RazerMSApplePayPlugin'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
      Copy Right 2022
      Permission is granted to whole world.
     LICENSE
   }
   s.author           = { 'RMS Mobile Division' => 'mobile-sa@razer.com' }
-  s.source           = { :git => "https://github.com/hisyamadzha/hello_world_cocoapods.git", :tag => "#{s.version}" }
+  s.source           = { :git => "https://https://github.com/RazerMS/RazerMSApplePayPlugin.git", :tag => "#{s.version}" }
   s.framework        = "Foundation"
   s.framework        = "PassKit"
   s.framework        = "WebKit"
