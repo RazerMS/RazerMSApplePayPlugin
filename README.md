@@ -22,7 +22,7 @@ This is the complete and functional Razer Merchant Services Apple Pay Plugin pay
 
 CocoaPods is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate RazerMS Apple Pay Plugin into your Xcode project using CocoaPods, specify it in your Podfile:
 
-    pod 'razerms_applepay_plugin', '~> 1.0.1'
+    pod 'razerms_applepay_plugin', '~> 1.0.2'
 
 ### For Swift
 
