@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'razerms_applepay_plugin'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Razer Merchant Services Apple Pay Plugin'
   s.description      = <<-DESC
   These is Razer Merchant Services Apple Pay Plugin for merchant used
