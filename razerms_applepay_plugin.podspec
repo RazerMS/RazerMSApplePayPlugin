@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'razerms_applepay_plugin'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Razer Merchant Services Apple Pay Plugin'
   s.description      = <<-DESC
   These is Razer Merchant Services Apple Pay Plugin for merchant used
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author           = { 'RMS Mobile Division' => 'mobile-sa@razer.com' }
-  s.source           = { :git => "https://https://github.com/RazerMS/RazerMSApplePayPlugin.git", :tag => "#{s.version}" }
+  s.source           = { :git => "https://github.com/RazerMS/RazerMSApplePayPlugin.git", :tag => "#{s.version}" }
   s.framework        = "Foundation"
   s.framework        = "PassKit"
   s.framework        = "WebKit"
