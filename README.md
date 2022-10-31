@@ -26,7 +26,7 @@ CocoaPods is a dependency manager for Cocoa projects. For usage and installation
 
 ### For Swift
 
-    Step 1 - Add import RazerMSApplePayPlugin
+    Step 1 - Add import razerms_applepay_plugin
 
     Step 2 - Declare let ap = APManager.shared
 
